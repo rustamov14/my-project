@@ -1,0 +1,148 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main{
+    
+    width: 92%;
+    position: absolute;
+    border-radius: 15px;    
+    background: #ABC6D6;
+    padding: 40px 28px;
+
+    h1{
+        background-color: chartreuse;
+        color: chocolate;   
+    }
+}
+
+
+
+
+
+header{
+    width: 100%;
+    height: 10%;
+
+}
+header img{
+    position: absolute;
+    left: 380px;
+}
+.apple{
+    position: absolute;
+    top:30px;
+    left: 60px;
+}
+.menus{
+    position: absolute;
+    left:90%;
+}
+.menu{
+    
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    top: 220px;
+    left: 220px;
+}
+.menu h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.menu h2{
+    font-family:sans-serif;
+}
+.knopka{
+    width: 200px;
+    height: 50px;
+    border-radius: 45px;
+    background: #ABC6D6;
+    color: white;
+    border: 1px solid white;
+    font-size: 20px;
+    position: absolute;
+    top: 250px;
+    left: 5px;
+    font-family: sans-serif;
+
+    .knopka{
+        background: burlywood;
+        color: darkred;
+    }
+
+}
+.iwatch{
+    position: absolute;
+    left: 789px;
+    top: 170px;
+
+    
+}
+.iwatch img {
+    width: 415px;
+}
+.menu1{
+    position: absolute;
+    left: -90px;
+}
+.menu2{
+    position: absolute;
+    left:  -90px;
+    top: 580px;
+}
+.grey{
+    width: 131px;
+    position: absolute;
+    top: 85%;
+    left: 55%;
+    border-radius: 10px;
+    height: 70px;background: grey
+}
+.green{
+    width: 131px;
+    position: absolute;
+    top: 85%;
+    left: 68%;
+    border-radius: 10px;
+    height: 70px;
+    background: #6ADDCC;
+}
+.piple{
+    width: 131px;
+    position: absolute;
+    top: 85%;
+    left: 82%;
+    border-radius: 10px;
+    height: 70px;
+    background: #F9CDC4;
+}
+.grey img{
+    position: absolute;
+    top:-50px;
+    padding: 20px;
+
+}
+.green img{
+    position: absolute;
+    top:-50px;
+    padding: 20px;
+}
+.piple img{
+    position: absolute;
+    top:-50px;
+    padding: 20px;
+}
+.indac{
+    width: 40px;
+    position: absolute;
+    top: 270px;
+    left: 85%;
+}
+.page{
+    position: absolute;
+    top: 93%;
+    left: 100px;
+}
